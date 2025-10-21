@@ -13,7 +13,7 @@ It doesn't yet have any punctuation or symbol glyphs, numbers, nor any uppercase
 Download from [Baseline Square/BaselineSquareCursive/OpenType-PS](Baseline%20Square/BaselineSquareCursive/OpenType-PS)  
 
 ## Sample image of pangrams:
-![Sample image of pangrams](Baseline%20Square/Posters%20for%20Baseline%20Square%20Cursive%20font/Pangrams.png)
+![Sample image of pangrams](Baseline%20Square/Posters%20for%20Baseline%20Square%20Cursive%20font/Pangrams_Dark.png)
 
 # Baseline Hand
 This was the original font idea which I started but realised would take quite a while to create well, as implementing the connecting lines cleanly would be challenging (especially as FontLab 8's _Brush_ tool is remarkably badly designed. Hence, I chose to follow my next inspiration in order to simply get the concept recorded, which was to make the lines follow a squarer grid, giving rise to _Baseline Square_.  
@@ -21,4 +21,4 @@ This was the original font idea which I started but realised would take quite a 
 Currently, this font only includes letters a to g, and is nowhere near ready for being used! However, if you would like to use it, please drop a comment or message me and I'll start working on it again.
 
 ## Sample image of letters a-g:  
-![Sample image of letters a to g](Baseline%20Hand/Sample%20words%20-%20hand%20regular.png)
+![Sample image of letters a to g](Baseline%20Hand/Sample%20words%20-%20hand%20regular_Dark.png)
